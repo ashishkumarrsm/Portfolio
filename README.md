@@ -44,7 +44,7 @@ For more projects, visit my [GitHub repositories](https://github.com/Ashishkumar
 
 Feel free to reach out to me:
 
-- **Email**: [ashish@example.com](mailto:ashish@example.com)
+- **Email**: [ashish@example.com](mailto:ashishkumar141199@gmail.com)
 - **LinkedIn**: [Ashish Kumar](https://www.linkedin.com/in/ashishkumar/)
 - **Twitter**: [@AshishKumar](https://twitter.com/AshishKumar)
 - **Website**: [ashishkumarrsm.github.io/Portfolio](https://ashishkumarrsm.github.io/Portfolio/)
