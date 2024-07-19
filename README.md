@@ -45,8 +45,8 @@ For more projects, visit my [GitHub repositories](https://github.com/Ashishkumar
 Feel free to reach out to me:
 
 - **Email**: [ashish@example.com](mailto:ashishkumar141199@gmail.com)
-- **LinkedIn**: [Ashish Kumar](https://www.linkedin.com/in/ashishkumar/)
-- **Twitter**: [@AshishKumar](https://twitter.com/AshishKumar)
+- **LinkedIn**: [Ashish Kumar](https://www.linkedin.com/in/ashish-kumar-476178259/)
+- **Twitter**: [@AshishKumar](https://x.com/Ashi010702Kumar)
 - **Website**: [ashishkumarrsm.github.io/Portfolio](https://ashishkumarrsm.github.io/Portfolio/)
 
 ## License
